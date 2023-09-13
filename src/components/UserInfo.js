@@ -5,7 +5,7 @@ const UserInfo = (props) => {
   return (
     <div>
       <img src={userImage} alt="user" />
-      <p>Jason</p>
+      <p>Jason Kidd</p>
     </div>
   );
 };
